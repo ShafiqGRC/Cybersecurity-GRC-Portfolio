@@ -26,11 +26,11 @@ Governance and Risk Management establish the foundation of an organization's cyb
 
 ## Tools & Frameworks
 - Risk Management Tools: RiskWatch, Archer, LogicManager
-- Frameworks: NIST CSF, ISO 27001, COBIT
+- Frameworks: NIST CSF
 
 ## References
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-- [ISO/IEC 27001 Standard](https://www.iso.org/isoiec-27001-information-security.html)
+
 
 
 
