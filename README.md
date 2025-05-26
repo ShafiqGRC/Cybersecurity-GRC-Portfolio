@@ -164,8 +164,7 @@ Identity Management ensures that users and devices are properly identified, auth
 
 ## 🔐 Identity & Access Management Diagram
 
-![Identity Management Process](./identity-management.png)
-
+![Identity Management Process](./identitymanagement.png)
 
 ## Example Work
 - Implemented centralized identity management with Active Directory and Azure AD.
