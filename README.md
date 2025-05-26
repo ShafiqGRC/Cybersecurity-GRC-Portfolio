@@ -476,6 +476,9 @@ Incident Response prepares organizations to detect, analyze, and recover from cy
 
 ![Incident Response Process](./incidentresponse.png)
 
+
+![Incident Response Process](./incidentresponse.png)
+
 ## Example Work
 - Developed and tested incident response plans.
 - Led incident investigations and coordinated remediation.
