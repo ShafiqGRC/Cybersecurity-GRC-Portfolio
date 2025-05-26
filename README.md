@@ -10,6 +10,33 @@ This repository showcases key projects and documentation covering various securi
 
 ### 1. Governance & Risk Management
 - [1.1 Governance & Risk Management](./1.1-Governance-Risk-Management)
+# Governance & Risk Management
+
+## Overview
+Governance and Risk Management establish the foundation of an organization's cybersecurity posture by defining roles, responsibilities, processes, and controls to manage risks effectively.
+
+## Key Components
+- Establishing cybersecurity governance frameworks (e.g., ISO 27001, NIST CSF)
+- Defining organizational roles & responsibilities for security
+- Risk management lifecycle: identification, analysis, mitigation, monitoring
+- Continuous improvement via audits and reviews
+
+## Example Work
+- Developed a governance framework aligned with ISO 27001 for a mid-sized company.
+- Implemented risk registers and tracked remediation plans.
+- Conducted quarterly risk reviews with cross-functional teams.
+
+## Tools & Frameworks
+- Risk Management Tools: RiskWatch, Archer, LogicManager
+- Frameworks: NIST CSF, ISO 27001, COBIT
+
+## References
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [ISO/IEC 27001 Standard](https://www.iso.org/isoiec-27001-information-security.html)
+
+
+
+
 - [1.2 Policies & Procedures](./1.2-Policies-Procedures)
 - [1.3 Risk Assessment](./1.3-Risk-Assessment)
 
