@@ -236,32 +236,229 @@ Physical access controls protect facilities, hardware, and data from unauthorize
 - [NIST SP 800-116](https://csrc.nist.gov/publications/detail/sp/800-116/final)
 
 
-### 7. Malware & Email Protection
-- [Malware Protection](./Malware-Protection)
-- [Email & Web Protection](./Email-Web-Protection)
+### Malware & Email Protection
+# Malware Protection
+## Overview
+Malware protection employs technologies and best practices to detect, prevent, and respond to malicious software threats.
 
-### 8. Network Security
-- [Network Security & Segmentation](./-Network-Security-Segmentation)
+## Strategies
+- Endpoint protection platforms (EPP)
+- Regular signature and behavior-based scanning
+- User education on phishing and malware risks
 
-### 9. Disaster Recovery & Backup
-- [Disaster Recovery Planning (DRP)](./DRP)
-- [Backups](./Backups)
+## Example Work
+- Deployed and managed enterprise-grade EPP solutions.
+- Developed malware incident response workflows.
+- Conducted phishing simulations and user awareness training.
 
-### 10. Data Protection
-- [Data Encryption](./Data-Encryption)
-- [Data Loss Prevention](./Data-Loss-Prevention)
+## Tools
+- Microsoft Defender ATP, CrowdStrike, Malwarebytes
 
-### 11. Third-Party & Service Provider Management
-- [Service Provider / Third-Party Monitoring](./Service-Provider-Third-Party-Monitoring)
+## References
+- [MITRE ATT&CK Framework](https://attack.mitre.org/)
 
-### 12. Security Awareness & Training
-- [Security Awareness Training](./Security-Awareness-Training)
+# Email & Web Protection
 
-### 13. Secure Development
-- [Software & Connected Product Development](./Software-Connected-Product-Development)
+## Overview
+Email and web security prevent threats such as phishing, malware, and data leakage via email and web traffic.
 
-### 14. Incident Response
-- [Incident Response](./Incident-Response)
+## Key Controls
+- Email filtering and anti-spam
+- Web content filtering and URL categorization
+- Secure web gateways and sandboxing
+
+## Example Work
+- Implemented Proofpoint email security solution.
+- Configured web proxies to restrict access to malicious sites.
+- Monitored and reported email phishing campaigns.
+
+## Tools
+- Proofpoint, Mimecast
+
+## References
+- [NIST SP 800-177](https://csrc.nist.gov/publications/detail/sp/800-177/final)
+
+
+### # Network Security & Segmentation
+
+## Overview
+Network security controls and segmentation limit the attack surface and contain breaches by isolating critical assets.
+
+## Core Concepts
+- Firewalls and VLAN segmentation
+- Zero Trust Network Access (ZTNA)
+- Network intrusion detection/prevention systems (IDS/IPS)
+
+## Example Work
+- Designed network segmentation using firewalls and VLANs.
+- Deployed IDS/IPS for real-time threat detection.
+- Implemented micro-segmentation in cloud environments.
+
+## Tools
+FortiGate appliance, FortiConverter, FortiManager, and FortiAnalyzer
+
+## References
+- [NIST SP 800-125](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-125.pdf)
+
+
+### # Disaster Recovery Plan (DRP)
+
+## Overview
+Disaster Recovery Planning ensures that critical systems and data can be restored quickly after an incident.
+
+## Key Elements
+- Business impact analysis (BIA)
+- Recovery time objectives (RTO) and recovery point objectives (RPO)
+- DR plan development, testing, and maintenance
+
+## Example Work
+- Developed DR plans for critical business applications.
+- Coordinated DR tabletop exercises with cross-functional teams.
+- Integrated cloud DR solutions to reduce downtime.
+
+## References
+- [NIST SP 800-34](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-34r1.pdf)
+
+# Backups
+
+## Overview
+Backup processes protect data against loss or corruption by maintaining secure copies for restoration.
+
+## Best Practices
+- Regular backup schedules and verification
+- Offsite and offline backups for resilience
+- Encryption and access controls on backup data
+
+## Example Work
+- Designed backup strategy using Azure Backup(MABS)
+- Automated backup verification and reporting.
+- Ensured compliance with retention policies.
+
+## References
+- [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
+
+### Data Protection
+# Data Encryption
+
+## Overview
+Encryption protects data confidentiality both at rest and in transit, safeguarding against unauthorized access.
+
+## Techniques
+- Full disk encryption
+- Database and file-level encryption
+- TLS for network traffic
+
+## Example Work
+- Implemented BitLocker for endpoint encryption.
+- Encrypted sensitive databases using Transparent Data Encryption (TDE).
+- Configured TLS 1.2+ for all internal and external communications.
+
+## References
+- [NIST SP 800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf)
+
+# Data Loss Prevention (DLP)
+
+## Overview
+DLP technologies and policies prevent unauthorized data exfiltration and leakage.
+
+## Components
+- Content discovery and classification
+- Policy enforcement on endpoints, email, and cloud
+- Incident response workflows for data leaks
+
+## Example Work
+- Deployed DLP solutions to monitor sensitive data.
+- Defined policies for PCI and PII data protection.
+- Trained users on secure data handling.
+
+## Tools
+- Microsoft Purview DLP
+
+## References
+- [NIST SP 800-122](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-122.pdf)
+
+
+### Service Provider / Third-Party Monitoring
+
+## Overview
+Monitoring third-party service providers ensures they meet security requirements and do not introduce risks.
+
+## Key Activities
+- Vendor risk assessments
+- Contractual security requirements and SLAs
+- Continuous monitoring and audits
+
+## Example Work
+- Conducted security due diligence for cloud providers.
+- Developed third-party risk management framework.
+- Established ongoing vendor monitoring dashboards.
+
+## References
+- [NIST SP 800-161](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161.pdf)
+
+
+### Security Awareness & Training
+
+## Overview
+Security Awareness Training empowers employees to recognize and respond to security threats.
+
+## Program Components
+- Phishing simulations
+- Regular training sessions and assessments
+- Policy education and best practices
+
+## Example Work
+- Designed organization-wide security awareness program.
+- Conducted monthly phishing simulations with reporting.
+- Improved security culture and reduced incident rates.
+## Tools
+ - KnowBe4
+
+## References
+- [NIST SP 800-50](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-50.pdf)
+
+
+### Software & Connected Product Development
+
+## Overview
+Secure software development integrates security throughout the software lifecycle to build resilient connected products.
+
+## Key Practices
+- Secure coding standards
+- Static and dynamic application security testing (SAST/DAST)
+- Threat modeling and code reviews
+
+## Example Work
+- Integrated DevSecOps pipelines with automated security testing.
+- Led threat modeling workshops for development teams.
+- Conducted secure code reviews and vulnerability remediation.
+
+## Tools 
+ -   Veracode  
+## References
+- [OWASP Software Assurance Maturity Model](https://owaspsamm.org/)
+
+
+### Incident Response
+
+
+## Overview
+Incident Response prepares organizations to detect, analyze, and recover from cybersecurity incidents effectively.
+
+## Incident Response Lifecycle
+- Preparation
+- Detection and Analysis
+- Containment, Eradication, Recovery
+- Post-Incident Review
+
+## Example Work
+- Developed and tested incident response plans.
+- Led incident investigations and coordinated remediation.
+- Conducted lessons learned sessions to improve readiness.
+
+## References
+- [NIST SP 800-61](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+
 
 ---
 
