@@ -472,12 +472,11 @@ Incident Response prepares organizations to detect, analyze, and recover from cy
 - Detection and Analysis
 - Containment, Eradication, Recovery
 - Post-Incident Review
+  
 ## 📊 Incident Response Diagram
 
 ![Incident Response Process](./incidentresponse.png)
 
-
-![Incident Response Process](./incidentresponse.png)
 
 ## Example Work
 - Developed and tested incident response plans.
