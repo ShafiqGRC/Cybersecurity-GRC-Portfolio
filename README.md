@@ -130,7 +130,27 @@ Accurate software inventory and monitoring help prevent unauthorized software us
 
 
 ### 3. Identity & Access Management
-- [Identity Management](./-Identity-Management)
+
+## Overview
+Identity Management ensures that users and devices are properly identified, authenticated, and authorized to access resources.
+
+## Key Elements
+- User provisioning and deprovisioning
+- Access control and role management
+- Multi-factor authentication (MFA)
+- Identity lifecycle management
+
+## Example Work
+- Implemented centralized identity management with Active Directory and Azure AD.
+- Rolled out MFA across critical systems.
+- Established role-based access control (RBAC) policies.
+
+## Tools & Technologies
+- Microsoft Active Directory, Azure AD, Okta, Ping Identity
+
+## References
+- [NIST SP 800-63](https://pages.nist.gov/800-63-3/)
+
 
 ### 4. Configuration & Change Management
 - [Configuration & Change Management](./-Configuration-Change-Management)
