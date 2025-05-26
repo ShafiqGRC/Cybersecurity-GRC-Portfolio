@@ -279,7 +279,7 @@ Email and web security prevent threats such as phishing, malware, and data leaka
 - [NIST SP 800-177](https://csrc.nist.gov/publications/detail/sp/800-177/final)
 
 
-### Network Security & Segmentation
+# Network Security & Segmentation
 
 ## Overview
 Network security controls and segmentation limit the attack surface and contain breaches by isolating critical assets.
@@ -301,7 +301,7 @@ FortiGate appliance, FortiConverter, FortiManager, and FortiAnalyzer
 - [NIST SP 800-125](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-125.pdf)
 
 
-### # Disaster Recovery Plan (DRP)
+# Disaster Recovery Plan (DRP)
 
 ## Overview
 Disaster Recovery Planning ensures that critical systems and data can be restored quickly after an incident.
@@ -378,7 +378,7 @@ DLP technologies and policies prevent unauthorized data exfiltration and leakage
 - [NIST SP 800-122](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-122.pdf)
 
 
-### Service Provider / Third-Party Monitoring
+# Service Provider / Third-Party Monitoring
 
 ## Overview
 Monitoring third-party service providers ensures they meet security requirements and do not introduce risks.
@@ -397,7 +397,7 @@ Monitoring third-party service providers ensures they meet security requirements
 - [NIST SP 800-161](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161.pdf)
 
 
-### Security Awareness & Training
+# Security Awareness & Training
 
 ## Overview
 Security Awareness Training empowers employees to recognize and respond to security threats.
@@ -418,7 +418,7 @@ Security Awareness Training empowers employees to recognize and respond to secur
 - [NIST SP 800-50](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-50.pdf)
 
 
-### Software & Connected Product Development
+# Software & Connected Product Development
 
 ## Overview
 Secure software development integrates security throughout the software lifecycle to build resilient connected products.
@@ -439,7 +439,7 @@ Secure software development integrates security throughout the software lifecycl
 - [OWASP Software Assurance Maturity Model](https://owaspsamm.org/)
 
 
-### Incident Response
+# Incident Response
 
 
 ## Overview
