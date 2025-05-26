@@ -8,8 +8,6 @@ This repository showcases key projects and documentation covering various securi
 
 ## Portfolio Contents
 
-
-- [1.1 Governance & Risk Management](./1.1-Governance-Risk-Management)
 # Governance & Risk Management
 
 ## Overview
