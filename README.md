@@ -1,5 +1,5 @@
 
-# 1 Cybersecurity & GRC Portfolio
+# Cybersecurity & GRC Portfolio
 
 Welcome to my cybersecurity and Governance, Risk & Compliance (GRC) portfolio.  
 This repository showcases key projects and documentation covering various security domains and best practices.
