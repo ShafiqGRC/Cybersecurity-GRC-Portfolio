@@ -96,13 +96,13 @@ Maintaining an accurate inventory and monitoring of hardware assets is critical 
 - Integration with monitoring tools for real-time status
 
 ## Example Work
-- Implemented automated hardware asset discovery using SCCM.
+- Implemented automated hardware asset discovery using Pulseway.
 - Established procedures for periodic physical audits.
 - Integrated asset data with vulnerability management systems.
 
 ## Tools & Technologies
-- Microsoft SCCM, Lansweeper, ServiceNow CMDB
-
+- Pulseeway
+- 
 ## References
 - [NIST SP 800-128 Guide](https://csrc.nist.gov/publications/detail/sp/800-128/final)
 
