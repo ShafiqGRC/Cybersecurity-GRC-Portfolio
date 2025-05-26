@@ -84,8 +84,28 @@ Risk Assessment identifies, analyzes, and evaluates risks to an organization's a
 - [NIST SP 800-30 Risk Management Guide](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
 
 
-### 2. Asset Management
-- [Hardware Asset Inventory & Monitoring](./-Hardware-Asset-Inventory-Monitoring)
+
+# Hardware Asset Inventory & Monitoring
+
+## Overview
+Maintaining an accurate inventory and monitoring of hardware assets is critical for asset lifecycle management, vulnerability tracking, and compliance.
+
+## Key Activities
+- Asset discovery and inventory management
+- Regular hardware audits and updates
+- Integration with monitoring tools for real-time status
+
+## Example Work
+- Implemented automated hardware asset discovery using SCCM.
+- Established procedures for periodic physical audits.
+- Integrated asset data with vulnerability management systems.
+
+## Tools & Technologies
+- Microsoft SCCM, Lansweeper, ServiceNow CMDB
+
+## References
+- [NIST SP 800-128 Guide](https://csrc.nist.gov/publications/detail/sp/800-128/final)
+
 - [Software Inventory & Monitoring](./-Software-Inventory-Monitoring)
 
 ### 3. Identity & Access Management
