@@ -101,12 +101,33 @@ Maintaining an accurate inventory and monitoring of hardware assets is critical 
 - Integrated asset data with vulnerability management systems.
 
 ## Tools & Technologies
+- Microsoft SCCM
 - Pulseeway
-- 
+
 ## References
 - [NIST SP 800-128 Guide](https://csrc.nist.gov/publications/detail/sp/800-128/final)
 
-- [Software Inventory & Monitoring](./-Software-Inventory-Monitoring)
+# Software Inventory & Monitoring
+
+## Overview
+Accurate software inventory and monitoring help prevent unauthorized software use, detect vulnerabilities, and ensure license compliance.
+
+## Key Activities
+- Discover and maintain software inventories
+- Monitor software versions and patch status
+- Enforce software usage policies
+
+## Example Work
+- Deployed software inventory tools to track application versions.
+- Automated patch status reporting and compliance checks.
+- Collaborated with procurement to manage license entitlements.
+
+## Tools & Technologies
+- Microsoft SCCM, Pulseway
+
+## References
+- [NIST SP 800-40](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf)
+
 
 ### 3. Identity & Access Management
 - [Identity Management](./-Identity-Management)
