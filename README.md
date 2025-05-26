@@ -14,48 +14,48 @@ This repository showcases key projects and documentation covering various securi
 - [1.3 Risk Assessment](./1.3-Risk-Assessment)
 
 ### 2. Asset Management
-- [2.1 Hardware Asset Inventory & Monitoring](./2.1-Hardware-Asset-Inventory-Monitoring)
-- [2.4 Software Inventory & Monitoring](./2.4-Software-Inventory-Monitoring)
+- [Hardware Asset Inventory & Monitoring](./-Hardware-Asset-Inventory-Monitoring)
+- [Software Inventory & Monitoring](./-Software-Inventory-Monitoring)
 
-### 4. Identity & Access Management
-- [4.2 Identity Management](./4.2-Identity-Management)
+### 3. Identity & Access Management
+- [Identity Management](./-Identity-Management)
 
-### 5. Configuration & Change Management
-- [5.3 Configuration & Change Management](./5.3-Configuration-Change-Management)
+### 4. Configuration & Change Management
+- [Configuration & Change Management](./-Configuration-Change-Management)
 
-### 6. Monitoring & Logging
-- [6.2 Audit Logging & Monitoring](./6.2-Audit-Logging-Monitoring)
-- [6.3 Managed Detection & Response (MDR)](./6.3-Managed-Detection-Response-MDR)
+### 5. Monitoring & Logging
+- [Audit Logging & Monitoring](./Audit-Logging-Monitoring)
+- [Managed Detection & Response (MDR)](./Managed-Detection-Response-MDR)
 
-### 7. Physical Security
-- [7.1 Physical Access Security](./7.1-Physical-Access-Security)
+### 6. Physical Security
+- [Physical Access Security](./Physical-Access-Security)
 
-### 8. Malware & Email Protection
-- [8.1 Malware Protection](./8.1-Malware-Protection)
-- [8.2 Email & Web Protection](./8.2-Email-Web-Protection)
+### 7. Malware & Email Protection
+- [Malware Protection](./Malware-Protection)
+- [Email & Web Protection](./Email-Web-Protection)
 
-### 9. Network Security
-- [9.1 Network Security & Segmentation](./9.1-Network-Security-Segmentation)
+### 8. Network Security
+- [Network Security & Segmentation](./-Network-Security-Segmentation)
 
-### 10. Disaster Recovery & Backup
-- [10.1 Disaster Recovery Planning (DRP)](./10.1-DRP)
-- [10.2 Backups](./10.2-Backups)
+### 9. Disaster Recovery & Backup
+- [Disaster Recovery Planning (DRP)](./DRP)
+- [Backups](./Backups)
 
-### 11. Data Protection
-- [11.2 Data Encryption](./11.2-Data-Encryption)
-- [11.3 Data Loss Prevention](./11.3-Data-Loss-Prevention)
+### 10. Data Protection
+- [Data Encryption](./Data-Encryption)
+- [Data Loss Prevention](./Data-Loss-Prevention)
 
-### 12. Third-Party & Service Provider Management
-- [12.2 Service Provider / Third-Party Monitoring](./12.2-Service-Provider-Third-Party-Monitoring)
+### 11. Third-Party & Service Provider Management
+- [Service Provider / Third-Party Monitoring](./Service-Provider-Third-Party-Monitoring)
 
-### 13. Security Awareness & Training
-- [13.1 Security Awareness Training](./13.1-Security-Awareness-Training)
+### 12. Security Awareness & Training
+- [Security Awareness Training](./Security-Awareness-Training)
 
-### 14. Secure Development
-- [14.1 Software & Connected Product Development](./14.1-Software-Connected-Product-Development)
+### 13. Secure Development
+- [Software & Connected Product Development](./Software-Connected-Product-Development)
 
-### 15. Incident Response
-- [15.1 Incident Response](./15.1-Incident-Response)
+### 14. Incident Response
+- [Incident Response](./Incident-Response)
 
 ---
 
