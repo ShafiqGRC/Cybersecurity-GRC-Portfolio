@@ -129,7 +129,7 @@ Accurate software inventory and monitoring help prevent unauthorized software us
 - [NIST SP 800-40](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-40r4.pdf)
 
 
-### 3. Identity & Access Management
+### Identity & Access Management
 
 ## Overview
 Identity Management ensures that users and devices are properly identified, authenticated, and authorized to access resources.
