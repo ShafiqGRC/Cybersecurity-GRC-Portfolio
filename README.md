@@ -33,9 +33,54 @@ Governance and Risk Management establish the foundation of an organization's cyb
 
 
 
+# Policies & Procedures
+
+## Overview
+Security Policies and Procedures define the rules and guidelines to protect information assets and ensure compliance with legal and regulatory requirements.
+
+## Key Elements
+- IT Security Policy
+- Acceptable Use Policy 
+- Acceptable Use Policy
+- Access Control Policy
+- Incident Response Procedures
+- Data Classification and Handling Policies
+
+## Example Work
+- Authored comprehensive cybersecurity policies tailored for a SaaS provider.
+- Created procedure documents for incident response and vulnerability management.
+- Regularly reviewed and updated policies to comply with evolving standards.
+
+## Best Practices
+- Ensure policies are clear, concise, and enforceable.
+- Communicate policies effectively across the organization.
+- Train staff to understand and adhere to policies.
+
+## References
+- [SANS Policy Templates](https://www.sans.org/information-security-policy/)
+- [NIST Special Publication 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 
 
-- [1.2 Policies & Procedures](./1.2-Policies-Procedures)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - [1.3 Risk Assessment](./1.3-Risk-Assessment)
 
 ### 2. Asset Management
