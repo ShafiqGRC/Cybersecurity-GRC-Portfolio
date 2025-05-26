@@ -162,6 +162,11 @@ Identity Management ensures that users and devices are properly identified, auth
 - Multi-factor authentication (MFA)
 - Identity lifecycle management
 
+## 🔐 Identity & Access Management Diagram
+
+![Identity Management Process](./identity-management.png)
+
+
 ## Example Work
 - Implemented centralized identity management with Active Directory and Azure AD.
 - Rolled out MFA across critical systems.
