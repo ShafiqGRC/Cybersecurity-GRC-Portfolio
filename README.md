@@ -168,7 +168,7 @@ Configuration and Change Management controls changes to IT systems to minimize r
 - Automated configuration audits and alerts.
 
 ## Tools & Technologies
-- ServiceNow, Jira, Git, Puppet, Ansible
+- ServiceNow, Jira, FreshService 
 
 ## References
 - [ITIL Change Management](https://www.axelos.com/best-practice-solutions/itil)
@@ -190,7 +190,7 @@ Audit logging and monitoring detect security events, support investigations, and
 - Conducted regular log reviews and compliance audits.
 
 ## Tools & Technologies
-- Splunk, ELK Stack, IBM QRadar
+- Splunk, NetwrixAuditor
 
 ## References
 - [NIST SP 800-92](https://csrc.nist.gov/publications/detail/sp/800-92/final)
@@ -212,10 +212,29 @@ MDR services provide continuous monitoring, threat detection, and response capab
 - Defined escalation and incident handling processes.
 
 ## Providers & Tools
-- CrowdStrike Falcon Complete, Arctic Wolf, Rapid7 MDR
+- CrowdStrike Falcon Complete
 
 ## References
 - [Gartner MDR Market Guide](https://www.gartner.com/en/documents/3987445)
+
+# Physical Access Security
+
+## Overview
+Physical access controls protect facilities, hardware, and data from unauthorized physical access and tampering.
+
+## Key Measures
+- Badge and biometric access systems
+- Visitor management and escort policies
+- Surveillance cameras and alarms
+
+## Example Work
+- Designed multi-layer physical security for data center.
+- Implemented biometric authentication for sensitive areas.
+- Conducted physical security audits and drills.
+
+## References
+- [NIST SP 800-116](https://csrc.nist.gov/publications/detail/sp/800-116/final)
+
 
 ### 7. Malware & Email Protection
 - [Malware Protection](./Malware-Protection)
