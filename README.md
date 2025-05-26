@@ -2,6 +2,10 @@
 # Information Security & GRC Portfolio
 
 Welcome to my **Information Security / Governance, Risk & Compliance (GRC)** portfolio.
+## GRC Framework Overview
+
+![GRC Framework Diagram](./grc-framework-diagram.png)
+
 
 This repository showcases a curated collection of projects, frameworks, and best practices  
 developed to enhance organizational security posture and ensure regulatory compliance.
