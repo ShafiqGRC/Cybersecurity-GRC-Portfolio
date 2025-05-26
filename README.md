@@ -152,7 +152,7 @@ Identity Management ensures that users and devices are properly identified, auth
 - [NIST SP 800-63](https://pages.nist.gov/800-63-3/)
 
 
-### 4. Configuration & Change Management
+# Configuration & Change Management
 
 ## Overview
 Configuration and Change Management controls changes to IT systems to minimize risks and maintain system integrity.
@@ -173,7 +173,8 @@ Configuration and Change Management controls changes to IT systems to minimize r
 ## References
 - [ITIL Change Management](https://www.axelos.com/best-practice-solutions/itil)
 
-5. Audit Logging & MonitoringMonitoring & Logging
+
+# Audit Logging & Monitoring
 
 ## Overview
 Audit logging and monitoring detect security events, support investigations, and meet compliance requirements.
@@ -189,15 +190,32 @@ Audit logging and monitoring detect security events, support investigations, and
 - Conducted regular log reviews and compliance audits.
 
 ## Tools & Technologies
-- Splunk, NetWrix Auditor
+- Splunk, ELK Stack, IBM QRadar
 
 ## References
 - [NIST SP 800-92](https://csrc.nist.gov/publications/detail/sp/800-92/final)
 
-- [Managed Detection & Response (MDR)](./Managed-Detection-Response-MDR)
 
-### 6. Physical Security
-- [Physical Access Security](./Physical-Access-Security)
+# Managed Detection & Response (MDR)
+
+## Overview
+MDR services provide continuous monitoring, threat detection, and response capabilities to enhance security posture.
+
+## Key Components
+- 24/7 monitoring by security experts
+- Threat hunting and incident response
+- Integration with existing security infrastructure
+
+## Example Work
+- Partnered with MDR provider to enhance detection capabilities.
+- Integrated endpoint telemetry with MDR platform.
+- Defined escalation and incident handling processes.
+
+## Providers & Tools
+- CrowdStrike Falcon Complete, Arctic Wolf, Rapid7 MDR
+
+## References
+- [Gartner MDR Market Guide](https://www.gartner.com/en/documents/3987445)
 
 ### 7. Malware & Email Protection
 - [Malware Protection](./Malware-Protection)
