@@ -153,7 +153,27 @@ Identity Management ensures that users and devices are properly identified, auth
 
 
 ### 4. Configuration & Change Management
-- [Configuration & Change Management](./-Configuration-Change-Management)
+# Configuration & Change Management
+
+## Overview
+Configuration and Change Management controls changes to IT systems to minimize risks and maintain system integrity.
+
+## Key Components
+- Change request and approval workflows
+- Configuration baseline and documentation
+- Monitoring and auditing changes
+
+## Example Work
+- Established change advisory board (CAB) procedures.
+- Documented baseline configurations for critical servers.
+- Automated configuration audits and alerts.
+
+## Tools & Technologies
+- ServiceNow, Jira, Git, Puppet, Ansible
+
+## References
+- [ITIL Change Management](https://www.axelos.com/best-practice-solutions/itil)
+
 
 ### 5. Monitoring & Logging
 - [Audit Logging & Monitoring](./Audit-Logging-Monitoring)
