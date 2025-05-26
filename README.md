@@ -82,7 +82,6 @@ Risk Assessment identifies, analyzes, and evaluates risks to an organization's a
 
 ## References
 - [NIST SP 800-30 Risk Management Guide](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
-- [FAIR Institute](https://www.fairinstitute.org/)
 
 
 ### 2. Asset Management
