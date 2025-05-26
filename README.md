@@ -1,8 +1,13 @@
 
-# Cybersecurity & GRC Portfolio
+# Information Security  & GRC Portfolio
 
-Welcome to my cybersecurity and Governance, Risk & Compliance (GRC) portfolio.  
-This repository showcases key projects and documentation covering various security domains and best practices.
+Welcome to my Cybersecurity and Governance, Risk & Compliance (GRC) portfolio.  
+This repository highlights a collection of initiatives, documentation, and implementations aligned with industry best practices and regulatory frameworks.
+
+It demonstrates my hands-on experience in building, managing, and enhancing security programs across a wide range of domains—including risk management, asset protection, identity governance, incident response, and secure software development.
+
+Each section reflects a practical application of cybersecurity controls, policies, and frameworks designed to support organizational resilience, regulatory compliance, and operational excellence.
+
 
 ---
 
