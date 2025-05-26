@@ -279,7 +279,7 @@ Email and web security prevent threats such as phishing, malware, and data leaka
 - [NIST SP 800-177](https://csrc.nist.gov/publications/detail/sp/800-177/final)
 
 
-### # Network Security & Segmentation
+### Network Security & Segmentation
 
 ## Overview
 Network security controls and segmentation limit the attack surface and contain breaches by isolating critical assets.
