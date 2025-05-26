@@ -153,7 +153,6 @@ Identity Management ensures that users and devices are properly identified, auth
 
 
 ### 4. Configuration & Change Management
-# Configuration & Change Management
 
 ## Overview
 Configuration and Change Management controls changes to IT systems to minimize risks and maintain system integrity.
@@ -174,7 +173,7 @@ Configuration and Change Management controls changes to IT systems to minimize r
 ## References
 - [ITIL Change Management](https://www.axelos.com/best-practice-solutions/itil)
 
-Audit Logging & MonitoringMonitoring & Logging
+5. Audit Logging & MonitoringMonitoring & Logging
 
 ## Overview
 Audit logging and monitoring detect security events, support investigations, and meet compliance requirements.
@@ -190,7 +189,7 @@ Audit logging and monitoring detect security events, support investigations, and
 - Conducted regular log reviews and compliance audits.
 
 ## Tools & Technologies
-- Splunk, ELK Stack, IBM QRadar
+- Splunk, NetWrix Auditor
 
 ## References
 - [NIST SP 800-92](https://csrc.nist.gov/publications/detail/sp/800-92/final)
