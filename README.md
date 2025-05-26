@@ -174,9 +174,27 @@ Configuration and Change Management controls changes to IT systems to minimize r
 ## References
 - [ITIL Change Management](https://www.axelos.com/best-practice-solutions/itil)
 
+Audit Logging & MonitoringMonitoring & Logging
 
-### 5. Monitoring & Logging
-- [Audit Logging & Monitoring](./Audit-Logging-Monitoring)
+## Overview
+Audit logging and monitoring detect security events, support investigations, and meet compliance requirements.
+
+## Key Activities
+- Enable comprehensive logging on critical systems
+- Centralize logs in a Security Information and Event Management (SIEM) system
+- Set up alerting for suspicious activities
+
+## Example Work
+- Deployed Splunk for centralized log aggregation.
+- Defined alert rules for privilege escalations and login failures.
+- Conducted regular log reviews and compliance audits.
+
+## Tools & Technologies
+- Splunk, ELK Stack, IBM QRadar
+
+## References
+- [NIST SP 800-92](https://csrc.nist.gov/publications/detail/sp/800-92/final)
+
 - [Managed Detection & Response (MDR)](./Managed-Detection-Response-MDR)
 
 ### 6. Physical Security
