@@ -59,29 +59,31 @@ Security Policies and Procedures define the rules and guidelines to protect info
 ## References
 - [SANS Policy Templates](https://www.sans.org/information-security-policy/)
 - [NIST Special Publication 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+  
+# Risk Assessment
 
+## Overview
+Risk Assessment identifies, analyzes, and evaluates risks to an organization's assets to prioritize mitigation efforts.
 
+## Process Steps
+1. Asset Identification
+2. Threat and Vulnerability Analysis
+3. Risk Likelihood and Impact Estimation
+4. Risk Prioritization and Reporting
 
+## Example Work
+- Led annual risk assessments using quantitative and qualitative methods.
+- Created risk heat maps to visualize risk exposure.
+- Recommended controls and risk acceptance criteria to senior management.
 
+## Tools & Techniques
+- Tools: FAIR, OCTAVE, RiskWatch
+- Techniques: SWOT analysis, threat modeling, scenario analysis
 
+## References
+- [NIST SP 800-30 Risk Management Guide](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
+- [FAIR Institute](https://www.fairinstitute.org/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- [1.3 Risk Assessment](./1.3-Risk-Assessment)
 
 ### 2. Asset Management
 - [Hardware Asset Inventory & Monitoring](./-Hardware-Asset-Inventory-Monitoring)
