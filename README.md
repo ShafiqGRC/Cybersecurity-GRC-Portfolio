@@ -98,8 +98,10 @@ Risk Assessment identifies, analyzes, and evaluates risks to an organization's a
 - Created risk heat maps to visualize risk exposure.
 - Recommended controls and risk acceptance criteria to senior management.
 
+## Risk Assessment
 
-![Risk Management](./images/riskmanagement.png)
+![Risk Assessment](./images/riskmanagement.png)
+
 
 
 
