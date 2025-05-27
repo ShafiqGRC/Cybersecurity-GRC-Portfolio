@@ -98,6 +98,11 @@ Risk Assessment identifies, analyzes, and evaluates risks to an organization's a
 - Created risk heat maps to visualize risk exposure.
 - Recommended controls and risk acceptance criteria to senior management.
 
+
+![Risk Management](./images/riskmanagement.png)
+
+
+
 ## Tools & Techniques
 - Tools: FAIR, OCTAVE, RiskWatch
 - Techniques: SWOT analysis, threat modeling, scenario analysis
