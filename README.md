@@ -195,9 +195,6 @@ Configuration and Change Management controls changes to IT systems to minimize r
 - Automated configuration audits and alerts.
   
 
-![Configuration](./images/configuration.png)
-
-
 ## Tools & Technologies
 - ServiceNow, Jira, FreshService 
 
