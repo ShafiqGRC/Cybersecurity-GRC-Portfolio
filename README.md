@@ -193,11 +193,9 @@ Configuration and Change Management controls changes to IT systems to minimize r
 - Established change advisory board (CAB) procedures.
 - Documented baseline configurations for critical servers.
 - Automated configuration audits and alerts.
-
+  
 
 ![Configuration](./images/configuration.png)
-
-
 
 
 ## Tools & Technologies
