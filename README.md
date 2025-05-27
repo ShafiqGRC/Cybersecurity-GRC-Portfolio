@@ -125,7 +125,7 @@ Maintaining an accurate inventory and monitoring of hardware assets is critical 
 
 ## Tools & Technologies
 - Microsoft SCCM
-- Pulseeway
+- Pulseway
 
 ## References
 - [NIST SP 800-128 Guide](https://csrc.nist.gov/publications/detail/sp/800-128/final)
@@ -163,14 +163,14 @@ Identity Management ensures that users and devices are properly identified, auth
 - Multi-factor authentication (MFA)
 - Identity lifecycle management
 
-## 🔐 Identity & Access Management Diagram
-
-![Identity Management Process](./identitymanagement.png)
-
 ## Example Work
 - Implemented centralized identity management with Active Directory and Azure AD.
 - Rolled out MFA across critical systems.
 - Established role-based access control (RBAC) policies.
+
+## 🔐 Identity & Access Management Diagram
+
+![Identity Management Process](./identitymanagement.png)
 
 ## Tools & Technologies
 - Microsoft Active Directory, Azure AD, Okta, Ping Identity
@@ -193,6 +193,8 @@ Configuration and Change Management controls changes to IT systems to minimize r
 - Established change advisory board (CAB) procedures.
 - Documented baseline configurations for critical servers.
 - Automated configuration audits and alerts.
+
+![Configuration](./images/configuration.png)
 
 ## Tools & Technologies
 - ServiceNow, Jira, FreshService 
