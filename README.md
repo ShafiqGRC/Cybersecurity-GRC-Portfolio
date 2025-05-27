@@ -26,7 +26,6 @@ The content is aligned with industry standards such as **NIST CSF**, **ISO/IEC 2
 demonstrating a commitment to cybersecurity maturity, operational resilience, and strategic risk reduction.
 
 
----
 
 ## Portfolio Contents
 
@@ -52,7 +51,6 @@ Governance and Risk Management establish the foundation of an organization's cyb
 
 ## References
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-
 
 
 # Policies & Procedures
@@ -98,7 +96,7 @@ Risk Assessment identifies, analyzes, and evaluates risks to an organization's a
 - Created risk heat maps to visualize risk exposure.
 - Recommended controls and risk acceptance criteria to senior management.
 
-![riskmanagement](./images/riskmanagement.png)
+![Risk Management](./images/riskmanagement.png)
 
 
 
